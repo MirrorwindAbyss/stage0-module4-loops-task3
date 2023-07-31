@@ -16,5 +16,5 @@ public class NinesSum {
         }
         System.out.println(sum);
     }
-    
+
 }
