@@ -8,4 +8,5 @@ public class DigitsSum {
         }
         System.out.println(sum);
     }
+
 }
