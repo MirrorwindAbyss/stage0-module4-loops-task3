@@ -2,7 +2,8 @@ package school.mjc.stage0.loops.task3;
 
 public class AlphabetPrinter {
     public void printAlphabet() {
-        System.out.println("hello world");
-        System.out.println("hello world");
+        for (char i = 'a'; i <= 'z'; i++) {
+            System.out.println(i);
+        }
     }
 }
