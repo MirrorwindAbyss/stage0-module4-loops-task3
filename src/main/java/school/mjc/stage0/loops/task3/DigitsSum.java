@@ -8,10 +8,4 @@ public class DigitsSum {
         }
         System.out.println(sum);
     }
-
-    public static void main(String[] args) {
-        DigitsSum s = new DigitsSum();
-
-        s.printDigitsSum(12);
-    }
 }
